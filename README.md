@@ -6,4 +6,4 @@ It is connected to a lot of top polish twitch streamers most notably - 'youngmul
 Full list of functionalites available on https://lewus.pl/ (in Polish)
 
 ## Video Explanation (in Polish)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6L7Y8xWZmGU/0.jpg)](https://www.youtube.com/watch?v=6L7Y8xWZmGU)
+[![IMAGE ALT TEXT HERE](https://lewus.pl/lewusbot%20miminuiatrika%20copy.png)](https://www.youtube.com/watch?v=6L7Y8xWZmGU)
