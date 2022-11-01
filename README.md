@@ -3,7 +3,7 @@ Twitch ChatBot built in python with twitchio library. Uses twitch/leagueoflegend
 
 It is connected to a lot of top polish twitch streamers most notably - 'youngmulti', 'kasix', 'mokrysuchar', 'franio', 'szymoool', 'xmerghani', 'mork', 'arquel', 'stazjaa'
 
-Full list of functionalites available on https://lewus.pl/ (in Polish)
+Full list of functionalites available on https://lewus.netlify.app/ (in Polish)
 
 ## Video Explanation (in Polish)
-[![IMAGE ALT TEXT HERE](https://lewus.pl/lewusbot%20miminuiatrika%20copy.png)](https://www.youtube.com/watch?v=6L7Y8xWZmGU)
+[![IMAGE ALT TEXT HERE](https://lewus.netlify.app//lewusbot%20miminuiatrika%20copy.png)](https://www.youtube.com/watch?v=6L7Y8xWZmGU)
